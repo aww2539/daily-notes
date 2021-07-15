@@ -34,6 +34,8 @@ const js5 = {
 
 notes.push(js2)
 notes.push(js3)
+// notes.push(js4)
+// notes.push(js5)
 
 for (const note of notes) {
     console.log(note.subject);
