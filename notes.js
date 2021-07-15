@@ -35,7 +35,7 @@ const js3 = {
 notes.push(js2)
 notes.push(js3)
 // notes.push(js4)
-// notes.push(js5)
+// notes.push(js5) 
 
 for (const note of notes) {
     console.log(`Note ${note.id}`);
@@ -46,3 +46,5 @@ I felt ${note.feeling}.
  ------------
 `)
 }
+
+// end of notes
